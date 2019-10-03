@@ -1,5 +1,5 @@
 # Data4City_UrbanTracker
-Eine App für das Tracken von Wegen und Markieren von Orten in der Stadt
+Eine Mobile-App für das Tracken von Wegen und Markieren von Orten in der Stadt
 
 ![ScreenShot TUrbanTracker](UrbanTracker.jpg) 
 
